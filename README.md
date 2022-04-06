@@ -1,1 +1,1 @@
-# Algorithms
+# Leetcode solutions
