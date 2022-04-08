@@ -1,7 +1,3 @@
-package union_find.basic;
-
-import java.util.Scanner;
-
 /**
  * weightedQuickUnionPathCompression
  */
